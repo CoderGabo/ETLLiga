@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-5GDVGD3_MSSQLSERVER2.Liga_Futbol"
+  DTS:DTSID="{39D4A01A-332F-4853-B75E-52592179121B}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-5GDVGD3\MSSQLSERVER2;Initial Catalog=Liga_Futbol;Integrated Security=True;Application Name=SSIS-PruebaIncrementarCiudad-{39D4A01A-332F-4853-B75E-52592179121B}DESKTOP-5GDVGD3\MSSQLSERVER2.Liga_Futbol;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
